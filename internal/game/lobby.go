@@ -43,6 +43,7 @@ var (
 		"dutch":      "Dutch",
 		"ukrainian":  "Ukrainian",
 		"russian":    "Russian",
+		"fishbone": "Fishbone",
 	}
 )
 
