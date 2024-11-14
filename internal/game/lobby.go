@@ -44,7 +44,7 @@ var (
 		"ukrainian":  "Ukrainian",
 		"russian":    "Russian",
 		"fishbone": "Fishbone",
-		"fishbone_delete_repeats": "Only good words"
+		"fishbone_delete_repeats": "Only good words",
 	}
 )
 
