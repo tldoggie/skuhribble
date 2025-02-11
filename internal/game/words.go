@@ -57,6 +57,14 @@ var (
 			LanguageCode: "pl",
 			Lowercaser:   func() cases.Caser { return cases.Lower(language.Polish) },
 		},
+		"fishbone": {
+			LanguageCode: "fb",
+			Lowercaser: func() cases.Caser { return cases.Lower(language.AmericanEnglish) },
+		},
+		"fishbone_delete_repeats": {
+			LanguageCode: "dr",
+			Lowercaser: func() cases.Caser { return cases.Lower(language.AmericanEnglish) },
+		},
 	}
 
 	//go:embed words/*

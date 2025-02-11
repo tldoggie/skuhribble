@@ -8,8 +8,8 @@ func initEnglishTranslation() Translation {
 	translation.put("start-the-game", "Ready up!")
 	translation.put("force-start", "Force Start")
 	translation.put("force-restart", "Force Restart")
-	translation.put("game-not-started-title", "Game hasn't started")
-	translation.put("waiting-for-host-to-start", "Please wait for your lobby host to start the game.")
+	translation.put("game-not-started-title", "Guh hasn't started")
+	translation.put("waiting-for-host-to-start", "Please wait for your lobby host to start the guh.")
 
 	translation.put("now-spectating-title", "You are now spectating")
 	translation.put("now-spectating-text", "You can leave the spectator mode by pressing the eye button at the top.")

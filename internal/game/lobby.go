@@ -35,6 +35,8 @@ var SupportedLanguages = map[string]string{
 	"ukrainian":  "Ukrainian",
 	"russian":    "Russian",
 	"polish":     "Polish",
+	"fishbone": "Fishbone",
+	"fishbone_delete_repeats": "Only good words",
 }
 
 const (
