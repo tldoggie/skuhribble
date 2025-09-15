@@ -60,6 +60,10 @@ var (
 			LanguageCode: "dr",
 			Lowercaser: func() cases.Caser { return cases.Lower(language.AmericanEnglish) },
 		},
+		"senior_year_words": {
+			LanguageCode: "sy",
+			Lowercaser: func() cases.Caser { return cases.Lower(language.AmericanEnglish) },
+		}
 	}
 
 	//go:embed words/*

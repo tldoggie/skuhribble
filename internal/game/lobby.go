@@ -45,6 +45,7 @@ var (
 		"russian":    "Russian",
 		"fishbone": "Fishbone",
 		"fishbone_delete_repeats": "Only good words",
+		"senior_year_words": "Senior year words",
 	}
 )
 
